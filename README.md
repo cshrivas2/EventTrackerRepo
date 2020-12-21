@@ -16,3 +16,6 @@ eg. if filePathLocation is C:/Users/cshrivas/FileReader
 
 Command to run application in debug mode
 java -jar eventTracker-0.0.1-SNAPSHOT.jar filePathLocation --logging.level.org.springframework=DEBUG --logging.level.com.cs.tracker.logStack=DEBUG
+
+Log file path
+logs/EventTracker.log
